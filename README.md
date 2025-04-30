@@ -1,1 +1,1 @@
-# [Live Demo: ](http://buckymaler.com/global)
+# [Live Demo](http://vinaytz-portfolio.vercel.app)
